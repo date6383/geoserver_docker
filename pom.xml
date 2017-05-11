@@ -1,13 +1,1 @@
-    <plugins>
-        <plugin>
-            <groupId>org.apache.tomcat.maven</groupId>
-            <artifactId>tomcat8-maven-plugin</artifactId>
-            <version>2.2</version>
-            <configuration>
-                <url>http://192.168.1.106:8089/manager/text</url>
-                <server>tomcat</server>
-                <username>deploy</username>
-                <password>deploy</password>
-            </configuration>
-        </plugin>
-    </plugins>
+
